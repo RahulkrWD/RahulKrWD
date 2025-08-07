@@ -1,9 +1,10 @@
 <h2 align="center">Hi, I'm Rahul Kumar 👋</h2>
 <img align="right" alt="GIF" src="https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif" width="50%" />
 <p align="left" width="50%">I'm a solution-driven Full Stack Web Developer with skills in the MERN Stack. I'm passionate about building web applications and always eager to learn new things with a curious mindset. I truly enjoy coding and take pride in writing clean, efficient code. I'm looking forward to taking on a challenging and responsible role as a full-stack developer where I can grow and contribute to meaningful projects.</p>
+<h3>📫 Reach Out</h3>
+<p>Email: <a href="mailto:rahulkmrgaya21@gmail.com">rahulkmrgaya21@gmail.com</a></p>
+<p>LinkedIn: <a href="https://www.linkedin.com/in/rahulkmr07/" target="_blank">linkedin.com/in/rahulkmrgaya21</a></p>
 
-<br/>
-<br/>
 <br/>
 
 <h2 align="center">🛠 Tech Stack</h4>
