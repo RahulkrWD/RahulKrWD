@@ -38,9 +38,5 @@
 
 <div>
   <img  src="https://github-readme-stats.vercel.app/api?username=RahulkrWD&show_icons=true&theme=radical&hide_border=true" height="250px" width="47%" />
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=RahulkrWD&theme=radical&hide_border=true" height="250px" width="47%"/>
-</div>
-
-<div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulkrWD&layout=compact&theme=radical&hide_border=true" height="250px" width="47%"/>
 </div>
