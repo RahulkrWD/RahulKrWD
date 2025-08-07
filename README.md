@@ -5,6 +5,7 @@
 <br/>
 <br/>
 <br/>
+
 <h2 align="center">🛠 Tech Stack</h4>
 <div align="center">
   <!-- Frontend -->
@@ -29,7 +30,8 @@
   <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="55" height="55" style="margin-right: 10px;" />
 </div>
 
-
+<br/>
+<br/>
 
 <h2 align="center">📊 GitHub Stats</h2> 
 
